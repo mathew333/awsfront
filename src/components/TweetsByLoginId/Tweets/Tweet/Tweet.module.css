@@ -1,0 +1,7 @@
+.name {
+  text-decoration: none;
+  color: black;
+}
+.name:hover {
+  color: black;
+}

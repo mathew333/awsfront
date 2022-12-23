@@ -1,0 +1,8 @@
+.replies {
+  height: 350px;
+  overflow-y: scroll;
+  background-color: lightgray;
+}
+.no-replies {
+  height: 350px;
+}

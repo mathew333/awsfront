@@ -1,0 +1,7 @@
+.invalid > div > input {
+  border: 1px solid red;
+}
+
+.input > div > input {
+  border: 1px solid rgb(77, 255, 0);
+}

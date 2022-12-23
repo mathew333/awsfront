@@ -1,0 +1,10 @@
+.vr-h {
+  height: 500px;
+}
+.name {
+  text-decoration: none;
+  color: black;
+}
+.name:hover {
+  color: black;
+}
